@@ -20,14 +20,13 @@ Navigate the menus using your mouse.
 
 Press 'G' to access the grading menu to test specific isolated obstacles.
     Keys for the shortcuts for each obstacle are indicated under each obstacle box,
-    and clicking on them will take you to a game with only that obstacle
-    (that you can play infinitely).
+    and clicking on them will take you to a game with only that obstacle (that you can play infinitely).
 
 Press 'S' or click on "Skins" button to open the skins page to customize your character.
     May need to press twice on center of skin (pink circle) 
-    when customizing your character (Your skin will be highlighted).
+    when customizing your character (your skin will be highlighted).
 
-Press 'M' or click on "Return to main menu" button to return to the main menu.
+Press 'M' or click on "Return to Main Menu" button to return to the main menu.
     Clicking the play arrow at the menu page or game over page
     will let you play the game normally (randomized obstacles).
 
